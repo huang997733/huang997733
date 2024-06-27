@@ -26,8 +26,8 @@ I'm a ...
 #
 
 ### 📬 Connect with me:
-<a href="https://www.linkedin.com/in/lf2lf2kk/" target="blank" rel="noreferrer">
-	<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fu-Sheng Huang | LinkedIn" height="30" width="40" />
+<a href="https://www.linkedin.com/in/william-huang-29a37916a/" target="blank" rel="noreferrer">
+	<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="William Huang | LinkedIn" height="30" width="40" />
 </a>
 
 <br />
