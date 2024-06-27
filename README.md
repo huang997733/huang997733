@@ -2,7 +2,10 @@
 
 **`Full Stack Developer/Software Engineer`**
 
-I'm a ...
+I'm a Full Stack Developer based in Melbourne with one year of experience using multiple cutting-edge technologies, such as .NET, Node, Next, React and Angular. I am currently looking for entry-level jobs in the tech industry. Feel free to contact with me by clicking the LinkedIn icon below!
+
+- 👨🏽‍🎓 I got both my bachelor and master degree from the University of Melbourne
+- 📚 I'm constantly learning new skills in languages and tools, and striving for progress
 
 ---
 
