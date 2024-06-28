@@ -6,6 +6,7 @@ I'm a Full Stack Developer based in Melbourne with one year of experience using 
 
 - 👨🏽‍🎓 I got both my bachelor and master degree from the University of Melbourne
 - 📚 I'm constantly learning new skills in languages and tools, and striving for progress
+- 💬 Ask me about Anything
 
 ---
 
@@ -58,3 +59,6 @@ I'm a Full Stack Developer based in Melbourne with one year of experience using 
 </a>
 
 <br />
+<br />
+
+[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=huang997733&count_private=true&theme=gotham&show_icons=true&hide_border=true)](https://github.com/huang997733)<br/>
