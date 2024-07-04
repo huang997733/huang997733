@@ -8,7 +8,6 @@
 
 <br />
 
-
 <div align="center">
 
 👨🏽‍🎓 I'm currently working on a project that is deeply related with AI.
@@ -17,8 +16,7 @@
 
 💬 Ask me about Anything
 
-<div/>
----
+## <div/>
 
 <div align="center"> 
   <a href="mailto:williamhzy99@gmail.com">
@@ -35,8 +33,6 @@
   </a>
 </div>
 
-<hr/>
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -44,8 +40,13 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,cs,java,nextjs,mysql,flask,nginx,postgres,rabbitmq" /><br>
 </div>
 
-<br />
-<br />
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/huang997733/huang997733/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
