@@ -16,7 +16,6 @@
 
 💬 Ask me about Anything
 
-## <div/>
 
 <div align="center"> 
   <a href="mailto:williamhzy99@gmail.com">
