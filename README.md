@@ -1,64 +1,57 @@
-# 🏄‍♂️ William Huang
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=huang997733.huang997733" />
 
-**`Full Stack Developer/Software Engineer`**
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+William!;" />
+</h1>
 
-I'm a Full Stack Developer based in Melbourne with one year of experience using multiple cutting-edge technologies, such as .NET, Node, Next, React and Angular. I am currently looking for entry-level jobs in the tech industry. Feel free to contact with me by clicking the LinkedIn icon below!
+<h3 align="center">A passionate software developer based in Melbourne</h3>
 
-- 👨🏽‍🎓 I got both my bachelor and master degree from the University of Melbourne
-- 📚 I'm constantly learning new skills in languages and tools, and striving for progress
-- 💬 Ask me about Anything
+<br />
 
+
+<div align="center">
+
+👨🏽‍🎓 I'm currently working on a project that is deeply related with AI.
+
+📚 I'm constantly learning new skills in languages and tools, and striving for progress
+
+💬 Ask me about Anything
+
+<div/>
 ---
 
-### 🧰 Languages and Tools
+<div align="center"> 
+  <a href="mailto:williamhzy99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/william-huang-29a37916a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://ziyangh.com" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://leetcode.com/u/williamhzy99/" target="_blank">
+     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" />
+  </a>
+</div>
 
-<img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<hr/>
 
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Next" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
-<img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
-
-<img align="left" alt="Dotnet" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" />
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-
-<img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" />
-<img align="left" alt="Nginx" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
-<img align="left" alt="RabbitMQ" width="30px" style="padding-right:10px;" src="https://www.rabbitmq.com/assets/files/rabbitmq-logo-e91cacd38fcef5219149bc5cfa10b384.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
-<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
-
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,angular,html,css,vscode,github,tailwind,git,azure,anaconda,docker,dotnet,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,cs,java,nextjs,mysql,flask,nginx,postgres,rabbitmq" /><br>
+</div>
 
 <br />
 <br />
 
-#
-
-### 📬 Connect with me:
-<a href="https://www.linkedin.com/in/william-huang-29a37916a/" target="blank" rel="noreferrer">
-	<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="William Huang | LinkedIn" height="30" width="40" />
-</a>
-<a href="https://leetcode.com/u/williamhzy99/" target="blank" rel="noreferrer">
-	<img align="left" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" alt="William Huang | LeetCode"  height="35" width="35"/>
-</a>
-
-<br />
-<br />
-
-[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=huang997733&count_private=true&theme=gotham&show_icons=true&hide_border=true)](https://github.com/huang997733)<br/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=huang997733&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=huang997733&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=huang997733&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
