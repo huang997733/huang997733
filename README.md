@@ -20,7 +20,7 @@
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=I+build+practical+software+for+real+users.;I+like+AI+that+makes+workflows+clearer%2C+faster%2C+and+more+human.;I+care+about+clean+interfaces%2C+reliable+systems%2C+and+shipping+well." alt="Typing introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=720&lines=Building+useful+software+for+real+users.;AI+workflows%2C+clear+APIs%2C+reliable+systems.;Clean+interfaces.+Maintainable+code.+Shipping+well." alt="Typing introduction" />
 </div>
 
 ## About
